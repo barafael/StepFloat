@@ -1,0 +1,10 @@
+[package]
+name = "floatingpoint-rs"
+version = "0.1.0"
+authors = ["Rafael Bachmann <mediumendian@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+c2rust = "0.0.0"
+bitfield = "0.13.1"
+
